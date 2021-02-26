@@ -9,6 +9,13 @@ installation des dépendances :
 $ npm install
 ```
 
+## Démonstration
+
+Application hébergé sur Firebase.
+
+[Voir une version de démonstration](https://hulu-clone-8d2fe.web.app/)
+
+
 ## Démarrer l'application
 ***
 
